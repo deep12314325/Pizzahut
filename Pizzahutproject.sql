@@ -1,4 +1,4 @@
-create database deep;
+create database doc;
 -- SELECT * FROM deep.`pizzas[1]`;-- 
 -- SELECT * FROM deep.`pizza_types[1]`; 
 -- create table orders(
